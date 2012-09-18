@@ -1,28 +1,63 @@
-Stanza #1 A little about the company.....
+(Here's a sample job.txt format)
+(Stanza #1 A little about the company....)
 
-contact details and a link to more information http://example/jobs/ 
+Example.com is the most used example website in the western world.  
+We are looking for software engineers, sysadmins, and other good 
+people to help us maintain that position.
+
+Our engineers get free mani/pedicures while they work and as much 
+lo-cal drinks as they like from the mini-kitchens scattered around 
+the dank basement you'll be working in.
+
+Contact details and a link to more information http://example/jobs/ 
 
 See also 
 http://example.com/otherpage.html
 http://example.com/about/
 http://example.com/humans.txt
 
+* Location: 4th pit of hell, 2 blocks south of the I95, George Washington Bridge
+
 ----
-Stanza #2 - job advert
+(Stanza #2 - job advert....)
 
 # Software engineer
 
-http://example/jobs/engineering/dev
+* type: contract
+* payscale: $300-$500/day
+* other highlights: .....
+* other highlights: .....
+* other highlights: .....
+* other highlights: .....
+
+We run our websites on state of the art OS/360 servers and develop 
+them all in fully compliant COBOL and APL (bring your own keyboards!).
+
+You will be doing all sorts of facinating things, day to day.
+
+http://example.com/jobs/engineering/dev
 
 ----
-Stanza #3 - job advert
+(Stanza #3 - job advert....)
 
 # Sysadmin
-http://example/jobs/engineering/devops
+
+* type: permanent
+* payscale: $50000-$95000/year
+
+No need to bring your own insanity - we'll supply you all 
+that you'd ever need!
+
+http://example.com/jobs/engineering/devops
 
 ----
-Stanza #4 - job advert
+(Stanza #4 - job advert....) [continues]
 
 # PA to the CEO
-http://example/jobs/business/pa
 
+* type: intern
+* payscale: $15000-$20000/year
+
+Soy Latte please.
+
+http://example/jobs/business/pa

@@ -48,10 +48,11 @@
 <p>Parseable, searchable, uptodate (one assumes, and can easily be deprecated) and simple to throw up a cottage industry around.</p>
 </blockquote>
 
-<h2>Good Idea!</h2>
+<h2>Thats a Good Idea!</h2>
 <p><a href="/jobs.txt">/jobs.txt</a></p>
 <hr>
-<p>If you would like to have your jobs.txt linked from this page, please send me an email.</p>
+<p>If you would like to have your jobs.txt linked from this page, please send me an email - submissions@jobstxt.org.</p>
+<p>.... and an improved website is coming when I can - or, fork it, and let me know. <a href="https://github.com/alister/jobstxt.org">https://github.com/alister/jobstxt.org</a>.</p>
 
                     </article>
                 </section>
