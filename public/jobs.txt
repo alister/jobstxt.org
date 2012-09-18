@@ -1,0 +1,28 @@
+Stanza #1 A little about the company.....
+
+contact details and a link to more information http://example/jobs/ 
+
+See also 
+http://example.com/otherpage.html
+http://example.com/about/
+http://example.com/humans.txt
+
+----
+Stanza #2 - job advert
+
+# Software engineer
+
+http://example/jobs/engineering/dev
+
+----
+Stanza #3 - job advert
+
+# Sysadmin
+http://example/jobs/engineering/devops
+
+----
+Stanza #4 - job advert
+
+# PA to the CEO
+http://example/jobs/business/pa
+
