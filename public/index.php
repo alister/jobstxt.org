@@ -22,20 +22,19 @@
 <header></header>
 
         <div id="wrapper"> 
-        <script type="text/javascript"> 
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-1643796-25']);
-            _gaq.push(['_trackPageview']);
-            (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-            </script>                   
-
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34900638-1']);
+  _gaq.push(['_setDomainName', 'jobstxt.org']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
             <div id="content2">
                 <h1>About jobs.txt</h1>
-
 
                 <section class="intro">
                     <article> 
@@ -75,6 +74,14 @@ License</a></p>
         </article>
     </section>
 </footer> 
+
+<hr/>
+
+<p>Website by Alister Bulman <a href="http://abulman.co.uk">http://abulman.co.uk</a> | 
+	<a href="http://phpscaling.com">http://phpscaling.com</a> | 
+	<a href="http://careers.stackoverflow.com/alister">http://careers.stackoverflow.com/alister</a></p>
+<p>Original idea from a post by 'lifeisstillgood', <a href="http://news.ycombinator.com/item?id=4534059">http://news.ycombinator.com/item?id=4534059</a>
+Base HTML blatently stolen from <a href="http://humanstxt.org/">http://humanstxt.org/</a> and then cruelly torn to shreds</p>
 
 
 		</div> <!-- .wrapper-->
