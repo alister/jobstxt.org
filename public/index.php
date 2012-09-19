@@ -5,6 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+  <link type="text/plain" rel="jobs"   href="http://jobstxt.org/jobs.txt" />
+  <link type="text/plain" rel="author" href="http://jobstxt.org/humans.txt" />
+
 	<meta name="description" content="An initiative" /> 
   <meta name="author" content="Alister Bulman">
   <!--link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.0.4/css/bootstrap-combined.min.css"-->
