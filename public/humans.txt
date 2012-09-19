@@ -1,0 +1,17 @@
+/* TEAM */
+Chief Cook and Bottlewasher: Alister Bulman
+Contact: alister [at] jobstxt.org
+Twitter: @alister_b
+Website: http://abulman.co.uk
+Website: http://phpscaling.com
+Github: https://github.com/alister
+From: London, UK
+
+You?: Fork the Github repo - https://github.com/alister/jobstxt.org
+
+
+/* SITE */
+Last update: 2012-09-19
+Language: English
+Doctype: HTML5
+IDE: Sublime Text2
