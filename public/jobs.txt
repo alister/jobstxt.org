@@ -5,9 +5,9 @@ Example.com is the most used example website in the western world.
 We are looking for software engineers, sysadmins, and other good 
 people to help us maintain that position.
 
-Our engineers get free mani/pedicures while they work and as much 
-lo-cal drinks as they like from the mini-kitchens scattered around 
-the dank basement you'll be working in.
+Our engineers get free pedicures while they work and as much lo-cal 
+drinks as they like from the mini-kitchens scattered around the dank 
+basement you'll be working in.
 
 Contact details and a link to more information http://example/jobs/ 
 
@@ -23,6 +23,8 @@ http://example.com/humans.txt
 
 # Software engineer
 
+* posted: 2012-09-19
+* expires: 2012-10-15
 * type: contract
 * payscale: $300-$500/day
 * other highlights: .....
@@ -42,6 +44,7 @@ http://example.com/jobs/engineering/dev
 
 # Sysadmin
 
+* posted: Aug 19 2012
 * type: permanent
 * payscale: $50000-$95000/year
 
